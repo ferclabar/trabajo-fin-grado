@@ -1,15 +1,5 @@
-# Bitcoin Insights
-[![Build status](https://travis-ci.org/Jiri-Kremser/bitcoin-insights.svg?branch=master)](https://travis-ci.org/Jiri-Kremser/bitcoin-insights)
-[![Docker build](https://img.shields.io/docker/automated/jkremser/bitcoin-notebook.svg)](https://hub.docker.com/r/jkremser/bitcoin-notebook)
-[![Layers info](https://images.microbadger.com/badges/image/jkremser/bitcoin-notebook.svg)](https://microbadger.com/images/jkremser/bitcoin-notebook)
+# Trabajo Fin de Grado Fernando Claros Barrero
 
-## Quick start
-Follow the tutorial on https://radanalytics.io/examples/blockchain
-
-or for ultra-quick-start with some prepared data just run:
-```bash
-docker run --rm -ti -p 9000:9000 jkremser/bitcoin-spark-notebook:tutorial-1.0.0
-```
 
 ## Converter to Parquet
 
